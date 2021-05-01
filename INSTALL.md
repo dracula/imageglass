@@ -4,12 +4,12 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/abap.git
+    $ git clone https://github.com/felkonex/dracula-imageglass.git
 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/imageglass/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/felkonex/dracula-imageglass/archive/master.zip) option and unzip them.
 
 1. Open ImageGlass
 2. Click on the icon in the top right, and then select `Settings`
