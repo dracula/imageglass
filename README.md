@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/ImageGlass](https://draculath
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ImageGlass/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/imageglass/graphs/contributors).
 
 [![Felkon](https://github.com/felkonex.png?size=100)](https://github.com/FelkonEx) |
 --- |
