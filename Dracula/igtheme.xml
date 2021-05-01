@@ -4,6 +4,7 @@
             name="Dracula" 
             version="1" 
             author="Felkon" 
+            email=""
             website="https://github.com/FelkonEx" 
             description="ImageGlass Kobe theme (Dark)" 
             type="ImageGlass Theme Configuration" 
