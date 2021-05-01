@@ -61,6 +61,5 @@
             crop="Crop.svg"
             colorpicker="ColorPicker.svg"
         />
-        
     </Theme>
 </ImageGlass>

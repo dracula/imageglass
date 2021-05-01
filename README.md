@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/ImageGlass](https://draculatheme.com/ImageGlass).
+All instructions can be found at [draculatheme.com/imageglass](https://draculatheme.com/imageglass).
 
 ## Team
 
