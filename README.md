@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Felkon](https://github.com/felkonex.png?size=100)](https://github.com/FelkonEx) |
 --- |
-[Zeno Rocha](https://github.com/felkonex) |
+[Felkon](https://github.com/felkonex) |
 
 ## License
 
