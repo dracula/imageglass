@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [ImageGlass](https://imageglass.org/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [ImageGlass](https://imageglass.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Dracula/preview.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ImageGlass](https://draculatheme.com/ImageGlass).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ImageGlass/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Felkon](https://github.com/felkonex.png?size=100)](https://github.com/FelkonEx) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Zeno Rocha](https://github.com/felkonex) |
 
 ## License
 
