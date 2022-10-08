@@ -2,7 +2,7 @@
 
 > A dark theme for [ImageGlass](https://imageglass.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Dracula/preview.jpg)
 
 ## Install
 
