@@ -1,0 +1,81 @@
+{
+  "_Metadata": {
+    "Description": "ImageGlass theme configuration file",
+    "Version": "9.0"
+  },
+  "Info": {
+    "Name": "Dracula",
+    "Author": "Felkon",
+    "Email": "",
+    "Website": "https://github.com/FelkonEx",
+    "Description": "Dracula - Dark theme for ImageGlass",
+    "Version": "1.2"
+  },
+  "Settings": {
+    "IsDarkMode": true,
+    "NavButtonLeft": "ViewPreviousImage.svg",
+    "NavButtonRight": "ViewNextImage.svg",
+    "PreviewImage": "preview.jpg"
+  },
+  "Colors": {
+    "TextColor": "#F8F8F2",
+    "BgColor": "#282A36",
+
+    "ToolbarBgColor": "#21222C",
+    "ToolbarTextColor": "#F8F8F2",
+    "ToolbarItemHoverColor": "#BD93F9",
+    "ToolbarItemActiveColor": "#44475A",
+    "ToolbarItemSelectedColor": "#FF79C6",
+
+    "GalleryBgColor": "#2B2E3B",
+    "GalleryTextColor": "#F8F8F2",
+    "GalleryItemHoverColor": "#BD93F9",
+    "GalleryItemActiveColor": "#44475A",
+    "GalleryItemSelectedColor": "#FF79C6",
+
+    "MenuBgColor": "#282A36",
+    "MenuBgHoverColor": "#44475A",
+    "MenuTextColor": "#F8F8F2",
+    "MenuTextHoverColor": "#ff79C6",
+
+    "NavigationButtonColor": "#282A36"
+  },
+  "ToolbarIcons": {
+    "ActualSize": "ActualSize.svg",
+    "AutoZoom": "AutoZoom.svg",
+    "Checkerboard": "Checkerboard.svg",
+    "ColorPicker": "ColorPicker.svg",
+    "Crop": "Crop.svg",
+    "Delete": "Delete.svg",
+    "Edit": "Edit.svg",
+    "FlipHorz": "FlipHorz.svg",
+    "FlipVert": "FlipVert.svg",
+    "FullScreen": "FullScreen.svg",
+    "GoToImage": "GoToImage.svg",
+    "LockZoom": "LockRatio.svg",
+    "MainMenu": "Menu.svg",
+    "OpenFile": "OpenFile.svg",
+    "Print": "Print.svg",
+    "Refresh": "Refresh.svg",
+    "RotateLeft": "RotateLeft.svg",
+    "RotateRight": "RotateRight.svg",
+    "Save": "Save.svg",
+    "ScaleToFill": "ScaleToFill.svg",
+    "ScaleToFit": "ScaleToFit.svg",
+    "ScaleToHeight": "ScaleToHeight.svg",
+    "ScaleToWidth": "ScaleToWidth.svg",
+    "Slideshow": "Slideshow.svg",
+    "Gallery": "Gallery.svg",
+    "ViewFirstImage": "ViewFirstImage.svg",
+    "ViewLastImage": "ViewLastImage.svg",
+    "ViewNextImage": "ViewNextImage.svg",
+    "ViewPreviousImage": "ViewPreviousImage.svg",
+    "WindowFit": "WindowFit.svg",
+    "ZoomIn": "ZoomIn.svg",
+    "ZoomOut": "ZoomOut.svg",
+    "Play": "Play.svg",
+    "Pause": "Pause.svg",
+    "Export": "Export.svg",
+    "Exit": "Exit.svg"
+  }
+}
